@@ -21,5 +21,5 @@ A concurrent, high-performance HTTP web server built from scratch in C/C++ to de
 ## 🔧 How to Build and Run
 1. Clone the repository:
    ```bash
-   git clone [https://github.com/WorthySkill/Multi-Threaded-Web-Server.git](https://github.com/WorthySkill/Multi-Threaded-Web-Server.git)
+   git clone https://github.com/WorthySkill/Multi-Threaded-Web-Server.git
    cd Multi-Threaded-Web-Server
